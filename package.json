@@ -1,0 +1,24 @@
+{
+  "name": "ignorify-test",
+  "author": "Chris Bosco <chris@aviary.com>",
+  "version": "0.0.1",
+  "description": "Quick ignorify example",
+  "contributors": [ 
+    {
+      "name": "Chris Bosco",
+      "email": "chris@aviary.com"
+    } 
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cbosco/ignorify-example.git"
+  },
+  "dependencies" : {
+	  "browserify" : "~1.10",
+	  "ignorify" : "0.1.1"
+  },
+  "noAnalyze": true,
+  "engine": {
+    "node": ">=0.6"
+  }
+}
