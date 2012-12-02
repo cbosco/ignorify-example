@@ -14,8 +14,8 @@
     "url": "https://github.com/cbosco/ignorify-example.git"
   },
   "dependencies" : {
-	  "browserify" : "~1.10",
-	  "ignorify" : "0.1.1"
+	  "browserify" : "1.16.5",
+	  "tagify" : "0.0.0"
   },
   "noAnalyze": true,
   "engine": {

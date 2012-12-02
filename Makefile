@@ -8,6 +8,6 @@ all: browserify
 browserify:
 	$(BROWSERIFY_PATH) \
 		entry.js \
-		--plugin 'ignorify' \
+		--plugin 'tagify' \
 		--outfile bundled.js
 	
